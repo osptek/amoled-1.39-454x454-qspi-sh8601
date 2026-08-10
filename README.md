@@ -46,8 +46,7 @@
 
 <p align="center"><img alt="AM139Q454454FLS1" src="./images/AM139Q454454FLS1.png" width="320" /></p>
 
-**说明：** 模组。
-
+**说明：** 带触摸（CST820）。
 ---
 
 ## 如何切换分支

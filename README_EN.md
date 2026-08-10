@@ -46,8 +46,7 @@ Repo id: `1.39-amoled-454x454-qspi-sh8601`
 
 <p align="center"><img alt="AM139Q454454FLS1" src="./images/AM139Q454454FLS1.png" width="320" /></p>
 
-**Notes:** Module.
-
+**Notes:** With touch (CST820).
 ---
 
 ## How to Switch Branches
