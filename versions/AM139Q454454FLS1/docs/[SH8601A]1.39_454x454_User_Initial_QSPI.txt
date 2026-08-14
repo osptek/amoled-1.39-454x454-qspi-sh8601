@@ -1,0 +1,13 @@
+r11
+#5	//delay
+r2A 00 00 01 C5
+r2B 00 00 01 C5
+r44 01 C2
+r35 00
+r53 28
+rC4 84
+
+/* Image Write */
+
+#50	//delay
+r29
