@@ -31,7 +31,7 @@
 
 OSPTEK **1.39″ 454×454 AMOLED** is a **QSPI** color display module driven by **SH8601**, with touch controller **CST820**. The square resolution suits wearables and compact round HMI panels.
 
-Spec ID (repository name): `1.39-amoled-454x454-qspi-sh8601`
+Spec ID (repository name): `amoled-1.39-454x454-qspi-sh8601`
 
 Current module version: **AM139Q454454FLS1**. Electrical and mechanical details follow [`docs/AM_139_Q454454_FLS_1_b691bc4634.pdf`](./docs/AM_139_Q454454_FLS_1_b691bc4634.pdf).
 
@@ -57,7 +57,7 @@ Current module version: **AM139Q454454FLS1**. Electrical and mechanical details 
 ## Repository layout
 
 ```text
-1.39-amoled-454x454-qspi-sh8601/                                # repo root (nav: ../../README_EN.md)
+amoled-1.39-454x454-qspi-sh8601/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── AM139Q454454FLS1/                                # full materials for this part number
         ├── README.md

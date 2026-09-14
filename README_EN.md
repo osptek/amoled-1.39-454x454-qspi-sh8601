@@ -29,7 +29,7 @@ This repository holds materials for the **1.39″ 454×454 AMOLED (QSPI · SH860
 
 The **root README is the navigation page**. Use the table below for a quick scan; open **Full docs** to enter that **part-number folder** under `versions/` (product page, datasheets, and examples live there).
 
-Repo id: `1.39-amoled-454x454-qspi-sh8601`
+Repo id: `amoled-1.39-454x454-qspi-sh8601`
 
 ---
 
