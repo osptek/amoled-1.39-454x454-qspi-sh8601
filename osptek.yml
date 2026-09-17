@@ -1,0 +1,14 @@
+id: amoled-1.39-454x454-qspi-sh8601
+category: displays
+
+size: "1.39"
+panel: amoled
+resolution: 454x454
+interface: [qspi]
+shape: round
+
+versions:
+  - id: AM139Q454454FLS1
+    driver: SH8601
+    touch: CST820
+    note: none
